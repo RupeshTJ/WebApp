@@ -14,6 +14,8 @@
     <sonar.password>password</sonar.password>
   </properties>
 	
+	 <!-- This is comment to check. -->
+	
 	<dependencies>
 		<dependency>
 			<groupId>javax.servlet</groupId>
