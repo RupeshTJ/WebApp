@@ -14,7 +14,7 @@
     <sonar.password>password</sonar.password>
   </properties>
 	
-	 <!-- This is comment to check. Comment 2 -->
+	 <!-- This is comment to check. Comment 3 -->  
 	
 	<dependencies>
 		<dependency>
